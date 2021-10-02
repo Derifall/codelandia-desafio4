@@ -198,6 +198,10 @@ img {
 }
 
 @media screen and (max-width: 766px) {
+  .LoginTitle h1 {
+    padding-bottom: 0;
+  }
+
   .LoginHome {
     padding-top: 4.4375rem;
   }
